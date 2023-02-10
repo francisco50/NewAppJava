@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewAppJava</string>
+    <string name="shadowbutton1">ShadowButton1</string>
+    <string name="shadowbutton2">ShadowButton2</string>
+    <string name="equal_sign">=</string>
+    <string name="addition">+</string>
+    <string name="dot">.</string>
+    <string name="zero">0</string>
+    <string name="two_zeros">00</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="minus_sign">-</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiple_sign">x</string>
+    <string name="cancel">C</string>
+    <string name="percent">%</string>
+    <string name="equalSign">=</string>
+    <string name="divisionSign">/</string>
+    <string name="CLEAR">CLR</string>
+    <string name="_0">0</string>
+    <string name="division">/</string>
+</resources>
