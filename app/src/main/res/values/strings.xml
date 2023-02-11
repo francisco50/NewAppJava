@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NewAppJava</string>
+    <string name="app_name">TwoScreenCalculator</string>
     <string name="shadowbutton1">ShadowButton1</string>
     <string name="shadowbutton2">ShadowButton2</string>
     <string name="equal_sign">=</string>

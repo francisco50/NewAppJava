@@ -177,6 +177,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         }
 
+
         if(btntxt.equals("C"))
         {
             calcScreen.setText("");
